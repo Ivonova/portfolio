@@ -1,0 +1,34 @@
+
+section.backgroandone {background: url("qwerty1.png") no-repeat; background-size: contain; width: 1500px; height: 25%; position: relative; }
+.photo {}
+
+
+.backgroand {background-color: rgb(252, 176, 84); width: 1500px; height: 500px; position: relative; }
+
+.first {position: relative;}
+.center {position: relative; left: 150px;}
+.moda {position: relative; left: 200px;}
+
+p.color {color: blue;}
+
+
+.second {font-family: Georgia, 'Times New Roman', Times, serif; font-size: 2em; position: relative; right: -200px; margin-top: 10px;
+}  
+
+
+.page-wrapper {
+  display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+   .left-panel {    
+    background-color: orange; margin-left: 50px;
+  }
+.content-wrapper {
+  background-color: aqua;
+}
+  .right-panel-wrapper {   
+    background-color: green;
+    margin-right: 50px;
+  }
+  

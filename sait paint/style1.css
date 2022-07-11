@@ -1,0 +1,90 @@
+
+.backgroandone {height: 300px; width: 1500px; }
+.fon {width: 1500px;}
+
+.backgroandone1 { height: 200px; width: 1500px; overflow-x: scroll; white-space: nowrap; overflow-y: hidden;}
+
+.nav-scroller__items::-webkit-scrollbar-thumb {
+  display: none;
+
+}
+
+
+.backgroand {background-color:#79bbb6; background-image: url(shoos1.png); width: 1500px; height: 500px; position: relative;  }
+
+.first {position: relative;}
+.center {position: relative; left: 150px;}
+.moda {position: relative; left: 200px;}
+
+a:link {
+  color: #497DDD; 
+  border-bottom: 1px dashed; 
+}
+
+a:visited {
+  color: #000000;
+}
+a:hover {
+  color: #154088; 
+  border-bottom: .07em solid;
+}
+a:active {
+  color: #497DDD; 
+  border-bottom: 1px dashed;
+}
+
+.write1 {font-style: italic; font-size: 22px;
+}
+.write {margin-left: 3%;}
+
+.mail {
+  list-style: none;
+  background-image: url(mail.png);
+  background-size: 1.2rem 1.2rem;
+  background-repeat: no-repeat;
+  margin-left: 45%;
+  
+}
+
+.telegram {
+  list-style: none;
+  background-image: url(telegram.png);
+  background-size: 1.2rem 1.2rem;
+  background-repeat: no-repeat;
+  margin-left: 45%;
+  
+}
+.instagram {
+  list-style: none;
+  background-image: url(instagram.png);
+  background-size: 1.1rem 1.1rem;
+  background-repeat: no-repeat;
+  margin-left: 45%;
+   }
+
+.page-wrapper {
+  background-image: url(shoos1.png) bottom;
+  display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+   .left-panel {    
+     margin-left: 50px;
+  }
+.content-wrapper {
+  
+}
+  .right-panel-wrapper {   
+    
+    margin-right: 50px;
+  }
+
+ .painting {text-align: center; font-size:xx-large;}
+  .golt {text-align: center; font-size:xx-large;}
+  .cloth {text-align: center;font-size:xx-large}
+.listpainting {font: italic 1.2em "Fira Sans", serif; font-size:x-large;}
+.listgolt {font: italic 1.2em "Fira Sans", serif;font-size:x-large;}
+.listcloth {font: italic 1.2em "Fira Sans", serif; font-size:x-large;}
+ 
+
+
