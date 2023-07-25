@@ -2,7 +2,7 @@
 .backgroandone {background: url("shoos.jpg") ; width:100%;  height: 25%; position: relative; }
 .fon {}
 
-.backgroandone1 { height: 200px; width: 1500px; overflow-x: scroll; white-space: nowrap; overflow-y: hidden;}
+.backgroandone1 { height: 200px;  overflow-x: scroll; white-space: nowrap; overflow-y: hidden;}
 
 .nav-scroller__items::-webkit-scrollbar-thumb {
   display: none;
