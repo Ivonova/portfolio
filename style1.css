@@ -1,9 +1,9 @@
 
-section.backgroandone {background: url("qwerty1.png");  width: 100%; height: 25%; position: relative; }
+section.backgroandone {background: url("qwerty1.png"); background-size: contain; width: 100%; height: 25%; position: relative; }
 .photo {}
 
 
-.backgroand {background-color: rgb(252, 176, 84); width: 100%; height: 500px; position: relative; }
+.backgroand {background-color: rgb(252, 176, 84); width: 100%; height: 500px;  }
 
 .first {position: relative;}
 .center {position: relative; left: 150px;}
