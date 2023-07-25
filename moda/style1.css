@@ -1,5 +1,5 @@
 
-.backgroandone {background-color: antiquewhite; height: 60px; width: 1500px; }
+.backgroandone {background-color: antiquewhite; height: 60px; width: 100%; }
 /* задаем цвет фона для контейнера nav. */
 nav {
   margin: 0px 0;
@@ -42,7 +42,7 @@ nav a:hover {
 
 
 
-.backgroandone1 {background-color: #dbaeae; height: 100px; width: 1500px; }
+.backgroandone1 {background-color: #dbaeae; height: 100px; width: 100% }
 .fon {margin-left: 30px;}
 
 button.btn {
@@ -136,7 +136,7 @@ button.drop1 {display: none;}
 form {
   position: relative;
   width: 300px;
-  margin-left: 1200px ;
+  margin-left: 80% ;
   margin-top: -75px;
 }
 input, button {
@@ -167,18 +167,12 @@ button:before {
   font-weight: bold;
 }
 
-.backgroandone0 {background-color: antiquewhite; height: 700px; width: 1500px; }
+.backgroandone0 {background-color: antiquewhite; height: 750px; width: 100% }
 
-#vidio {
-  position:relative;
-  height:400px;
-
-  margin:0 auto;
-}
- 
 #vidio img {
   position:absolute;
-  left:0;
+  left:10%;
+  bottom: 0;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
@@ -194,7 +188,7 @@ button:before {
 
 
 
-.backgroand {background-color: #dbaeae; background-image: url(shoos1.png); width: 1500px; height: 200px; position: relative;  }
+.backgroand {background-color: #dbaeae; background-image: url(shoos1.png); width: 100%; height: 200px; position: relative;  }
 
 .first {position: relative;}
 .center {position: relative; left: 150px;}
