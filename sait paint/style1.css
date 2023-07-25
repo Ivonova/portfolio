@@ -10,7 +10,7 @@
 }
 
 
-.backgroand {background-color:#79bbb6; background-image: url(shoos1.png); height: 500px; position: relative;  }
+.backgroand {background-color:#79bbb6; background-image: url("shoos1.png"); height: 500px; position: relative;  }
 
 .first {position: relative;}
 .center {position: relative; left: 150px;}
